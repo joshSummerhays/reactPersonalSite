@@ -1,10 +1,11 @@
 import './App.css'
+import { LandingPage } from './LandingPage'
 
 function App() {
 
   return (
     <>
-      <h1>Pardon the dust, this site is currently under construction</h1>
+    <LandingPage />
     </>
   )
 }
